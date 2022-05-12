@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="RegisterPageStyle.css" />
+    <script src="./RegisterPage.js" type="module"></script>
+    <title>Регистрация</title>
+  </head>
+  <body>
+    <main class="main">
+      <header class="header">
+        <img id="header-img" src="SofiaExportIcon.jpg" />
+      </header>
+      <section class="username-password">
+        <div class="username-div">
+          <i class="fas fa-user" id="user"></i>
+          <input type="email" placeholder="Email:" id="email" />
+        </div>
+        <div class="password-div">
+            <i class="fas fa-lock" id="first-lock"></i>
+          <input type="password" placeholder="Password:" id="password" />
+        </div>
+        <div class="second-password-div">
+            <i class="fas fa-lock" id="second-lock"></i>
+          <input type="password" placeholder="Repeat password:" id="second-password" />
+        </div>
+      </section>
+      <div class="privacy">
+        <input type="checkbox" id="checkbox">
+            <span>Съгласен съм с правилата на сайта</span>
+      </div>
+      <div class="register-btn">
+        <button id="register-btn"><i class="fas fa-sign-in-alt"></i>Регистрирай се</button>
+    </div>
+    </main>
+  </body>
+</html>

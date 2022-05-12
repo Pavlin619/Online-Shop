@@ -1,0 +1,195 @@
+{
+    "products":[{
+        "id":"first",
+        "name":"OX361/4D",
+        "data":"December 17, 1995 13:24:00",
+        "description":"Маслен филтър",
+        "image": "/productImages/OilFilter.jpg",
+        "brandImage":"/productImages/Knecht.jpg",
+        "price":"23лв",
+        "availability":"В наличност",
+        "quantity":"3"
+    },
+    {
+        "id":"second",
+        "name":"LX1640",
+        "data":"December 17, 1998 13:24:00",
+        "description":"Въздушен филтър",
+        "image": "/productImages/AirFilter.jpg",
+        "brandImage":"/productImages/Knecht.jpg",
+        "price":"64лв",
+        "availability":"В наличност",
+        "quantity":"2"
+    },
+    {
+        "id":"third",
+        "name":"WK 5001",
+        "data":"August 22, 2001 11:25:00",
+        "description":"Горивен филтър",
+        "image": "/productImages/FuelFilter.jpg",
+        "brandImage":"/productImages/MannLogo.jpg",
+        "price":"71.50лв",
+        "availability":"В наличност",
+        "quantity":"1"
+    },
+    {
+        "id":"forth",
+        "name":"K 1169",
+        "data":"September 15, 2002 11:29:00",
+        "description":"Филтър купе",
+        "image": "/productImages/CabinFilter.jpg",
+        "brandImage":"/productImages/Filtron.png",
+        "price":"39.80лв",
+        "availability":"В наличност",
+        "quantity":"1"
+    },
+    {
+        "id":"fifth",
+        "name":"GDB1729",
+        "data":"October 8, 1999 13:27:00",
+        "description":"Предни накладки",
+        "image": "/productImages/FrontBrakePads.jpg",
+        "brandImage":"/productImages/TRW.png",
+        "price":"138лв",
+        "availability":"В наличност",
+        "quantity":"1"
+    },
+    {
+    "id":"sixth",
+    "name":"13.0470-7217.2",
+    "data":"January 19, 2004 18:36:00",
+    "description":"Задни накладки",
+    "image": "/productImages/RearBrakePads.jpg",
+    "brandImage":"/productImages/ATE.png",
+    "price":"114лв",
+    "availability":"За утре",
+        "quantity":"1"
+    },
+    {
+        "id":"seventh",
+        "name":"600 0234 00",
+        "data":"March 19, 1995 16:10:00",
+        "description":"Комплект съединител",
+        "image": "/productImages/Clutch.jpg",
+        "brandImage":"/productImages/LUK.png",
+        "price":"1492лв",
+        "availability":"За утре",
+        "quantity":"1"
+    },
+    {
+        "id":"eight",
+        "name":"0 250 603 006",
+        "data":"July 28, 2002 19:13:00",
+        "description":"Подгревна свещ",
+        "image": "/productImages/Plug.jpg",
+        "brandImage":"/productImages/bosch.png",
+        "price":"49.10лв",
+        "availability":"В наличност",
+        "quantity":"4"
+    },
+    {
+        "id":"ninth",
+        "name":"4008474",
+        "data":"June 15, 1996 11:45:00",
+        "description":"Предни пружини",
+        "image": "/productImages/FrontSprings.jpg",
+        "brandImage":"/productImages/Lesjofors.jpg",
+        "price":"93.20лв",
+        "availability":"За утре",
+        "quantity":"2"
+    },
+    {
+        "id":"tenth",
+        "name":"4208456",
+        "data":"February 27, 1997 19:28:00",
+        "description":"Задни пружини",
+        "image": "/productImages/RearSprings.jpg",
+        "brandImage":"/productImages/Lesjofors.jpg",
+        "price":"112.50лв",
+        "availability":"За 3 дни",
+        "quantity":"2"
+    },
+    {
+        "id":"eleventh",
+        "name":"Castrol Edge 5L",
+        "data":"August 19, 1990 17:20:00",
+        "description":"Двигателно масло",
+        "image": "/productImages/Castrol5L.jpg",
+        "brandImage":"/productImages/Castrol.png",
+        "price":"115лв",
+        "availability":"В наличност",
+        "quantity":"2"
+    },
+    {
+        "id":"twelfth",
+        "name":"Castrol Edge 1L",
+        "data":"August 19, 1990 17:21:00",
+        "description":"Двигателно масло",
+        "image": "/productImages/Castrol1L.jpg",
+        "brandImage":"/productImages/Castrol.png",
+        "price":"31лв",
+        "availability":"В наличност",
+        "quantity":"5"
+    },
+    {
+        "name":"DF4450",
+        "data":"January 30, 2002 10:35:00",
+        "description":"Спирачен диск заден",
+        "image": "/productImages/ReadDisk.jpg",
+        "brandImage":"/productImages/TRW.png",
+        "price":"80лв",
+        "availability":"В наличност",
+        "quantity":"2"
+    },
+    {
+        "name":"24.0124-0197.1",
+        "data":"February 17, 2001 16:05:00",
+        "description":"Спирачен диск преден",
+        "image": "/productImages/FrontDisk.jpg",
+        "brandImage":"/productImages/ATE.png",
+        "price":"112лв",
+        "availability":"В наличност",
+        "quantity":"2"
+    },
+    {
+        "name":"311 409",
+        "data":"February 17, 2001 16:05:00",
+        "description":"Амортисьор заден",
+        "image": "/productImages/RearShocks.jpg",
+        "brandImage":"/productImages/Sachs.jpg",
+        "price":"115лв",
+        "availability":"За утре",
+        "quantity":"2"
+    },
+    {
+        "name":"3339270",
+        "data":"March 22, 1998 10:15:00",
+        "description":"Амортисьор преден",
+        "image": "/productImages/FrontShock.jpg",
+        "brandImage":"/productImages/Kayaba.jpg",
+        "price":"140лв",
+        "availability":"За утре",
+        "quantity":"2"
+    },
+    {
+        "name":"21-0421",
+        "data":"September 19, 2003 14:28:00",
+        "description":"Комплект ангренажна верига",
+        "image": "/productImages/Chain.jpg",
+        "brandImage":"/productImages/Hepu.png",
+        "price":"399лв",
+        "availability":"За 3 дена",
+        "quantity":"1"
+    },
+    {
+        "name":"29933 01",
+        "data":"October 22, 2001 15:28:00",
+        "description":"Вътрешен накрайник",
+        "image": "/productImages/Nakrainik.jpg",
+        "brandImage":"/productImages/Lemforder.jpg",
+        "price":"55лв",
+        "availability":"В наличност",
+        "quantity":"2"
+    }
+]
+}

@@ -1,0 +1,89 @@
+@import url('https://use.fontawesome.com/releases/v5.15.4/css/all.css');
+
+*{
+    box-sizing: border-box;
+}
+body {
+  background-image: url('BMWREV.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+main{
+    width: 502px;
+    height: 400px;
+    background-color: white;
+    position: fixed;
+    top: 173px;
+    left: 518px;
+    right: 1019px;
+    bottom:588px;
+    border-radius: 10px;
+    border:none;
+}
+.header{
+    text-align: center;
+}
+#header-img{
+    margin-top:32px;
+    height: 63px;
+    margin-bottom: 34px;
+}
+.username-password{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#email{
+    width: 400px;
+    height: 30px;
+    margin-bottom: 19px;
+    border-radius: 5px;
+    border: 3px solid #E8E7E7;
+}
+#password{
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    border: 3px solid #E8E7E7;
+    margin-bottom: 19px;
+}
+#user{
+    width: 16px;
+    height: 16px;
+    margin-right:2px;
+}
+#second-password{
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    border: 3px solid #E8E7E7;
+}
+#first-lock{
+    margin-right:2px;
+}
+#second-lock{
+    margin-right:2px;
+}
+
+.privacy{
+    margin-left:40px;
+    margin-top:25px;
+}
+.checkbox span{
+    margin-left:8px;
+    font-size: 15px;
+}
+#register-btn{
+    float:right;
+    margin-right:38px;
+    margin-top:20px;
+    width:85%;
+    height: 30px;
+    background-color: orange;
+    color:white;
+    border-radius: 5px;
+    border:2px solid #CCCCCC;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="LoginPageStyle.css" />
+    <script src="./LoginScript.js" type="module"></script>
+    <title>Вход</title>
+  </head>
+  <body>
+    <main>
+      <header class="header">
+        <img id="header-img" src="SofiaExportIcon.jpg" />
+      </header>
+      <section class="username-password">
+        <div class="username-div">
+          <i class="fas fa-user" id="user"></i>
+          <input type="email" placeholder="Email:" id="email"/>
+        </div>
+        <div class="password-div">
+            <i class="fas fa-key"></i>
+          <input type="password" placeholder="Password:" id="password" />
+        </div>
+      </section>
+      <section class="newAccount-checkbox">
+          <a href="RegisterPage.html" id="newAccount">Нямаш акаунт? Създай нов!</a>
+          <div class="checkbox">
+            <input type="checkbox">
+            <span>Запомни ме</span>
+          </div>
+      </section>
+      <div class="login-btn">
+          <button id="login-btn"><i class="fas fa-sign-in-alt"></i>Вход</button>
+      </div>
+    </main>
+  </body>
+</html>
